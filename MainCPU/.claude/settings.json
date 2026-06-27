@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"convertToAbsoluteAngle\\\\|getApproachAngle\" /c/Users/yuyam/dev/Noa.h-4Cam/MainCPU/*.ino)",
+      "Bash(grep -n \"void.*rotateAndMoveTheta\\\\|void.*moveTheta\\\\|void.*turnTheta\" /c/Users/yuyam/dev/Noa.h-4Cam/MainCPU/*.ino)",
+      "Bash(grep -n \"^\\\\s*void.*SerialNumAvailable\\\\|handleLongDistanceBall\\\\|handleShortDistanceBall\\\\|handleNoBallVisible\" /c/Users/yuyam/dev/Noa.h-4Cam/MainCPU/*.ino)"
+    ]
+  }
+}

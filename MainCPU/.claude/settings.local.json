@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find c:UsersyuyamdevNoa.h-4CamMainCPU -type f -name *.json -o -name *.ini -o -name *.txt -o -name *.ino)",
+      "Bash(grep -E \"\\\\.ino$|\\\\.json$|\\\\.txt$\")",
+      "Bash(wc -l '/c/Users/yuyam/dev/Noa.h-4Cam/MainCPU'/*.ino)"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+# VSCode設定ファイル
+.vscode/
+build
+.DS_Store
+CLAUDE.md
